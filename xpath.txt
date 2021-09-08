@@ -1,0 +1,4 @@
+Links: //h2/a/@href
+Title: //div[@class="mb-auto"]/h2/span/text()
+Summary: //div[@class="lead"]/p/text()
+Article: //div[@class="html-content"]/p/text()
